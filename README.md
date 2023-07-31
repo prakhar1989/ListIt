@@ -2,6 +2,10 @@
 
 A simple app that uses LLMs to help you break down complex goals and tasks into smaller subtasks. This is a flutter port of the [generative-ai](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/list-it) example by Google.
 
+
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-07-30 at 18 17 18](https://github.com/prakhar1989/Divide-Conquer/assets/649249/2a514f60-c891-463c-84bb-602aa8684478)
+
+
 ## Getting Started
 
 Setup Firebase as per the directions below to. Once that's done, [follow the instructions](https://firebase.google.com/docs/flutter/setup?platform=android) for setting up FlutterFire to complete the integration.
