@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806251562450",
+    "project_id": "list-it-4dc79",
+    "storage_bucket": "list-it-4dc79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806251562450:android:bce42ffc03559ac587740b",
+        "android_client_info": {
+          "package_name": "com.example.listitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806251562450-e4nuvolv8hai3h2hp19om40e2jaf5vl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGLnKZRJzpiyD_35kMa-Zuy6Yf0pdRFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806251562450-e4nuvolv8hai3h2hp19om40e2jaf5vl8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806251562450-0m681pnomdlfnqfn8q9kofiph4c9fj0j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.listitapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
