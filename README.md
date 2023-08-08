@@ -1,4 +1,4 @@
-# Divide And Conquer
+# List It 
 
 A simple app that uses LLMs to help you break down complex goals and tasks into smaller subtasks. This is a flutter port of the [generative-ai](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/list-it) example by Google.
 
