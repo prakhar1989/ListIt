@@ -12,6 +12,13 @@
       ],
       "id": "android",
       "manager": "flutter"
+    },
+    {
+      "command": [
+        "echo 'test'"
+      ],
+      "id": "ios",
+      "manager": "web"
     }
   ]
 }
